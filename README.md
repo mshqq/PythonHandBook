@@ -1,6 +1,6 @@
 # 📘 PythonHandBook
 
-Добро пожаловать в **PythonHandBook** — репозиторий, в котором я публикую свои варианты решений заданий из [Yandex HandBook](https://practicum.yandex.ru/handbook/python).
+Добро пожаловать в **PythonHandBook** — репозиторий, в котором я публикую свои варианты решений заданий из [Yandex HandBook](https://education.yandex.ru/handbook/python).
 
 ## 🚀 О проекте
 Здесь собраны решения упражнений и задач по Python.  
@@ -12,10 +12,10 @@
 
 ## 📖 Содержание
 
-### 2. Basic Python Constructs
-- [2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование](2. Basic Python Constructs/2.1. Input and output of data. Operations with numbers, strings. Formatting/)
-- [2.2 Условный оператор](2. Basic Python Constructs/)
-- [2.3 Циклы](2. Basic Python Constructs/)
+### 2. Базовые конструкции Python
+- [2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование](https://github.com/mshqq/PythonHandBook/tree/main/2.%20Basic%20Python%20Constructs/2.1.%20Input%20and%20output%20of%20data.%20Operations%20with%20numbers%2C%20strings.%20Formatting)
+- [2.2 Условный оператор](https://github.com/mshqq/PythonHandBook/tree/main/2.%20Basic%20Python%20Constructs/2.2%20Conditional%20operator)
+- [2.3 Циклы](https://github.com/mshqq/PythonHandBook/tree/main/2.%20Basic%20Python%20Constructs/2.3%20Loops)
 
 ## 🛠 Используемые технологии
 - Python 3.13
