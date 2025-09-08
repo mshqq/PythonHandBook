@@ -13,9 +13,9 @@
 ## 📖 Содержание
 
 ### 2. Basic Python Constructs
-- [2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование](./2.1. Input and output of data. Operations with numbers, strings. Formatting/)
-- [2.2 Условный оператор](./2.2 Conditional operator/)
-- [2.3 Циклы](./Loops/)
+- [2.1 Ввод и вывод данных. Операции с числами, строками. Форматирование](./2. Basic Python Constructs/2.1. Input and output of data. Operations with numbers, strings. Formatting/)
+- [2.2 Условный оператор](./2. Basic Python Constructs/)
+- [2.3 Циклы](./2. Basic Python Constructs/)
 
 ## 🛠 Используемые технологии
 - Python 3.13
